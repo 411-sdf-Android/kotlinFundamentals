@@ -72,6 +72,11 @@ fun main(){
     //Cambio pendiente
     //Cambio olvidado por tontuelo
     //Otro cambio
+    ojgojgojaojgojsgoja
+    I HATE SEBASTIAN
+    I HATE SANTIAGO
+    I LOVE I
+
 
 
 }
