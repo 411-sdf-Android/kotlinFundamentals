@@ -67,7 +67,8 @@ fun main(){
 
     println("Dime un número")
     val input= readlnOrNull()
-    val number = input?.ToIntOrNull()
+    //val number = input?.ToIntOrNull()
+    println("cambio interesante")
 
 
 }
