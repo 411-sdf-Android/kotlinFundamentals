@@ -77,6 +77,7 @@ fun main(){
     val teOdeiofhaosnfoapvhapvbh0a = 12
 
     //CREANDO EL FEATURE DE REGISTER EN APP YEAH
+    //CREANDO CONEXION CON LA API
 
 
 }
