@@ -72,9 +72,11 @@ fun main(){
     //Cambio pendiente
     //Cambio olvidado por tontuelo
     //Otro cambio
-    val horizontalLayoutManager
-    val hhfhghg
-    val teOdeiofhaosnfoapvhapvbh0a
+    val horizontalLayoutManager = ""
+    val hhfhghg = 12
+    val teOdeiofhaosnfoapvhapvbh0a = 12
+
+    //CREANDO EL FEATURE DE REGISTER EN APP YEAH
 
 
 }
